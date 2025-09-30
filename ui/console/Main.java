@@ -34,8 +34,8 @@ public class Main {
         TemaFactory temaFactory = app.getTemaFactory();
         PalavraFactory palavraFactory = app.getPalavraFactory();
 
-        Jogador j1 = jogadorFactory.getJogador("ana");
-        Jogador j2 = jogadorFactory.getJogador("bia");
+        Jogador j1 = jogadorFactory.getJogador("Alessandra");
+        Jogador j2 = jogadorFactory.getJogador("Gabriel");
         jogadorRepo.inserir(j1);
         jogadorRepo.inserir(j2);
 
