@@ -8,4 +8,3 @@ public interface ElementoGraficoFactory {
     Letra getLetra(char codigo);
     Letra getLetraEncoberta();
 }
-

@@ -5,7 +5,6 @@ import domain.model.Rodada;
 import domain.repository.RodadaRepository;
 import infrastructure.RepositoryException;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
