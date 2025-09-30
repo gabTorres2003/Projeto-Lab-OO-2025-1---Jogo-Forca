@@ -1,3 +1,5 @@
+package domain.model;
+
 public class BonecoTexto implements Boneco {
 
     @Override
